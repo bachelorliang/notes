@@ -1,2 +1,2 @@
 # notes
-to note sth should be memerized
+to note sth about java should be memerized
