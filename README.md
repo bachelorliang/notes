@@ -1,2 +1,2 @@
 # notes
-to note sth should be memerized
+to note sth should be memerized, can be used?
